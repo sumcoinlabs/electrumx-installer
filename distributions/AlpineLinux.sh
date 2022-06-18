@@ -19,7 +19,7 @@ function add_user {
 }
 
 function install_python37 {
-	_error "Please install Python 3.7 manually"
+	_error "Please install Python 3.8 manually"
 }
 
 function install_git {
